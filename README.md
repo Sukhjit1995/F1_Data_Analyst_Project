@@ -55,15 +55,15 @@ Data Visualization (Power BI) built an interactive dashboard to visualize:
 
 💡 **Key Insights**
 
-🏁 Qualifying position strongly predicts race outcome, showing a clear correlation between start and finish positions.
+- Qualifying position strongly predicts race outcome, showing a clear correlation between start and finish positions.
 
-🏎️ Mercedes dominated between 2014–2020, reflecting their hybrid era success.
+- Mercedes dominated between 2014–2020, reflecting their hybrid era success.
 
-🔵 Red Bull Racing now leads in total wins and shows strong consistency in recent seasons.
+- Red Bull Racing now leads in total wins and shows strong consistency in recent seasons.
 
-🔴 Ferrari, Mercedes, and Red Bull have maintained similar total points since 2000, each with distinct peaks of dominance.
+- Ferrari, Mercedes, and Red Bull have maintained similar total points since 2000, each with distinct peaks of dominance.
 
-⚙️ Team performance variability decreased after 2010, suggesting greater competitiveness in recent seasons.
+- Team performance variability decreased after 2010, suggesting greater competitiveness in recent seasons.
 
 ### Dashboard  
 ![Dashboard Screenshot](visuals/Dashboard_Screenshot.png)
